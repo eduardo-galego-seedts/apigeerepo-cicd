@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-SetListProduct" version="SHA-512:fb14371e6d8dd78bc83372e575e250ad4690c00de6ae024c294756d193a5f7da0420a4e97846515f0fcb8b484c81a2bd0c45409feb5c09f2605d90bfbcd2f251"/>
+        <VersionInfo resourceName="AM-SetProduct" version="SHA-512:e5cfd206ac3846f7fecfb5df753e5a4a2eb88acb33673c30e729dfe43503d6db9379fb348dadb685ef00dda29774ac3f48666e6ee5d909a6c1de4ed8c316c3b2"/>
+        <VersionInfo resourceName="RF-NotFound" version="SHA-512:c9d5bd256dd1a1a920660d8a8e05d34d6c5d4588756078fee8e1103c0097987ae9dceb767c4b27a0ea7eaf9802aa715669311beeccc22ced3b1ee861ae767dee"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:2efe2cc9b8b9900a8c74acd04c6b656c00932f277631afb962462d7de62f6dfc81941e706f23d14cca4ba50a12b9992b59ba96b207d2f4f091e990225cc025e2"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="TE-Default" version="SHA-512:01ca9802f075ae63f27c5fcb177cae0549e5e7ea6b0e9017ae9cb8a5223e603ec49587e496dc66482fa5b56dabaf097599787a6bbb3dfd64c9f7e4c208efc44c"/>
+    </TargetEndpoints>
+</Manifest>

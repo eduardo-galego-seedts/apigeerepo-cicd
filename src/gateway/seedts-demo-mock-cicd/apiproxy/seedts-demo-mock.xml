@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="seedts-demo-mock-cicd">
+    <Basepaths>/seedts-demo-mock-cicd</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1604699489956</CreatedAt>
+    <CreatedBy>eduardo.galego@seedts.com</CreatedBy>
+    <Description>API para manter produtos.
+</Description>
+    <DisplayName>seedts-demo-mock-cicd</DisplayName>
+    <LastModifiedAt>1604953254116</LastModifiedAt>
+    <LastModifiedBy>eduardo.galego@seedts.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ee6c032e948ddbbcba17f08b939bbc4cb0232d88eb04378ae715ab1c38cfc586530af36ddb04d7e71eadebad138ef644a11b583112986b4a250b4be3ef7ba1eb</ManifestVersion>
+    <Policies>
+        <Policy>AM-SetListProduct</Policy>
+        <Policy>AM-SetProduct</Policy>
+        <Policy>RF-NotFound</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>TE-Default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
